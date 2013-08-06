@@ -10,5 +10,5 @@ with relevance to the Hoabinhian of mainland Southeast
 Asia. Journal of Archaeological Science 35(5): 1189-1200
 http://dx.doi.org/10.1016/j.jas.2007.08.007
 
-The reanalysis analyses the key variables with flaked grouped 
+The reanalysis analyses the key variables with flakes grouped 
 by individual cores, rather than combining all cores together. 
